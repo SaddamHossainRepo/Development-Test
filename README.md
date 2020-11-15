@@ -1,11 +1,5 @@
 # Blog Django Example App
 
-## Deploy to Heroku
-
-You can deploy this app yourself to Heroku to play with.
-
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-
 ## Running
 
 It is best to use the python `virtualenv` tool to build locally:
